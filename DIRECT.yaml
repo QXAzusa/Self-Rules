@@ -1,6 +1,5 @@
 payload:
  - DOMAIN,cdn.wzfou.com
- - DOMAIN-SUFFIX,gvt1.com
  - DOMAIN-SUFFIX,local.qxazusa.xyz
  - DOMAIN-SUFFIX,chat.bilibili.com
  - DOMAIN,upos-hz-mirrorakam.akamaized.net
