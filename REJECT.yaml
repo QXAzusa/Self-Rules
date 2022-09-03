@@ -6,6 +6,7 @@ payload:
  - DOMAIN,aegis.qq.com
  - DOMAIN-SUFFIX,bluestacks.com
  - DOMAIN-SUFFIX,googletagmanager.com
+ - DOMAIN-SUFFIX,googletagservices.com
  - DOMAIN-SUFFIX,events.data.microsoft.com
  - DOMAIN-SUFFIX,internetdownloadmanager.com
  - DOMAIN-SUFFIX,events.data.msn.com
