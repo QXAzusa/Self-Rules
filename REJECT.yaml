@@ -3,6 +3,7 @@ payload:
  - DOMAIN,data.bilibili.com
  - DOMAIN,data.bilivideo.com
  - DOMAIN-KEYWORD,tracker.biliapi.net
+ - DOMAIN-KEYWORD,mcdn.bilivideo
  - DOMAIN,aegis.qq.com
  - DOMAIN-SUFFIX,bluestacks.com
  - DOMAIN-SUFFIX,googletagmanager.com
