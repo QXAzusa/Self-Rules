@@ -1,6 +1,7 @@
 # 内容：Bilibili 哔哩哔哩
 # 数量：21条
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
