@@ -64,6 +64,7 @@ DOMAIN-SUFFIX,collect.data.intl.miui.com
 DOMAIN-SUFFIX,content.intl.miui.com
 DOMAIN-SUFFIX,track.mcc.miui.com
 DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN,cnac.account.xiaomi.com
 DOMAIN-SUFFIX,kingdata.ksyun.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
