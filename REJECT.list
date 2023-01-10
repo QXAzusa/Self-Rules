@@ -16,4 +16,8 @@ DOMAIN,hub5btmain.v6.shub.sandai.net
 DOMAIN,ibaidu.tujidu.com
 DOMAIN,audio-fa.scdn.co
 DOMAIN,audio-fa.spotifycdn.com
-DOMAIN,api.mumuglobal.com:
+DOMAIN,api.mumuglobal.com
+DOMAIN-SUFFIX,daumcdn.net
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,edge4k.com
+DOMAIN-SUFFIX,jprj.com
