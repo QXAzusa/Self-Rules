@@ -120,3 +120,21 @@ DOMAIN,a.hl.mi.com
 DOMAIN,idm.api.io.mi.com
 DOMAIN,api.jr.mi.com
 DOMAIN,ssl-cdn.static.browser.mi-img.com
+# 本机号码一键登录
+DOMAIN,config.cmpassport.com
+DOMAIN,www.cmpassport.com
+DOMAIN,wap.cmpassport.com
+DOMAIN,onekey1.cmpassport.com
+DOMAIN,log1.cmpassport.com
+DOMAIN,smsks1.cmpassport.com
+DOMAIN,verify.cmpassport.com
+DOMAIN,opencloud.wostore.cn
+DOMAIN,auth.wosms.cn
+DOMAIN,id.mail.wo.cn
+DOMAIN,mdn.open.wo.cn
+DOMAIN,hmrz.wo.cn
+DOMAIN,nishub1.10010.com
+DOMAIN,enrichgw.10010.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN,open.e.189.cn
+DOMAIN,ye.dun.163yun.com
