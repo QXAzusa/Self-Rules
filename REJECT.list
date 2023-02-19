@@ -21,3 +21,5 @@ DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,edge4k.com
 DOMAIN-SUFFIX,jprj.com
+DOMAIN-SUFFIX,dtrace.nvidia.com
+DOMAIN,events.gfe.nvidia.com
