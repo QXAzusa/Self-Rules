@@ -4,7 +4,7 @@ payload:
  - '+.data.bilivideo.com'
  - '+.aegis.qq.com'
  - '+.bluestacks.com'
- - '+.events.data.msn.cn
+ - '+.events.data.msn.cn'
  - '+.events.data.msn.com'
  - '+.events.data.microsoft.com'
  - '+.internetdownloadmanager.com'
@@ -14,7 +14,7 @@ payload:
  - '+.hub5emu.v6.shub.sandai.net'
  - '+.hub5btmain.v6.shub.sandai.net'
  - '+.ibaidu.tujidu.com'
- - '+.audio-fa.scdn.co
+ - '+.audio-fa.scdn.co'
  - '+.audio-fa.spotifycdn.com'
  - '+.api.mumuglobal.com'
  - '+.daumcdn.net'
