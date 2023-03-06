@@ -1,9 +1,9 @@
 # Bilibili API
 # behavior is domain
 payload:
- - '+.acgvideo.com
- - '+.bilibili.cn
- - '+.bilibili.com
- - '+.biliapi.com
- - '+.biliapi.net
- - '+.biligame.net
+ - '+.acgvideo.com'
+ - '+.bilibili.cn'
+ - '+.bilibili.com'
+ - '+.biliapi.com'
+ - '+.biliapi.net'
+ - '+.biligame.net'
