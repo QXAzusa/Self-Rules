@@ -1,5 +1,5 @@
-# 内容：Bilibili 哔哩哔哩
-# 数量：21条
+# Bilibili API
+# behavior is domain
 payload:
  - '+.acgvideo.com
  - '+.bilibili.cn

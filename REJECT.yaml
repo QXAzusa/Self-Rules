@@ -1,3 +1,5 @@
+# Useless Domain
+# behavior is domain
 payload:
  - '+.cm.bilibili.com'
  - '+.data.bilibili.com'

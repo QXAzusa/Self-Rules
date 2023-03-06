@@ -1,0 +1,29 @@
+# DIRECT
+# behavior is classical
+payload:
+ - DOMAIN,mirrorbits.lineageos.org
+ - DOMAIN,downloadmirror.intel.com
+ - DOMAIN-SUFFIX,local.qxazusa.xyz
+ - DOMAIN-SUFFIX,chat.bilibili.com
+ - DOMAIN-SUFFIX,mdt.qq.com
+ - DOMAIN,upos-hz-mirrorakam.akamaized.net
+ - DOMAIN-KEYWORD,ak-spotify-com.akamaized.net
+ - DOMAIN-SUFFIX,steampipe.akamaized.net
+ - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+ - DOMAIN-SUFFIX,download.prss.microsoft.com
+ - DOMAIN-SUFFIX,msftconnecttest.com
+ - DOMAIN-SUFFIX,suo.tw
+ - DOMAIN-SUFFIX,windowsupdate.com
+ - DOMAIN-SUFFIX,matsuri.icu
+ - DOMAIN-SUFFIX,pytorch.org
+ - DOMAIN-SUFFIX,download.nvidia.com
+ - DOMAIN-SUFFIX,officecdn.microsoft.com
+ - DOMAIN-SUFFIX,softwareupdate.vmware.com
+ - DOMAIN,dl.google.com
+ - DOMAIN,fonts.googleapis.com
+ - DOMAIN,fonts.gstatic.com
+ - DOMAIN,production.cloudflare.docker.com
+ - DOMAIN,downloads.dell.com
+ - PROCESS-NAME,aria2c.exe
+ - PROCESS-NAME,BitComet_x64.exe
+ - PROCESS-NAME,BitComet.exe

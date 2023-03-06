@@ -1,3 +1,5 @@
+# MIUI Useless Domain
+# behavior is domain
 payload:
  - '+.httpdns-sc.aliyuncs.com'
  - '+.h-adashx.ut.taobao.com'
