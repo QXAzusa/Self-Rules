@@ -1,10 +1,20 @@
+# HK
+# behavior is domain
 payload:
  - '+.phncdn.com'
  - '+.phprcdn.com'
  - '+.loli.net
- - '+.gvt1.com'
- - '+.googleusercontent.com'
  - '+.twimg.com'
  - '+.imgur.com'
  - '+.githubusercontent.com'
  - '+.githubassets.com'
+ - '+.gstatic.cn'
+ - '+.gstatic.com'
+ - '+.gvt0.com'
+ - '+.gvt1.com'
+ - '+.gvt2.com'
+ - '+.gvt3.com'
+ - '+.xn--ngstr-lra8j.com'
+ - '+.ytimg.com'
+ - '+.ggpht.com'
+ - '+.googleusercontent.com'
