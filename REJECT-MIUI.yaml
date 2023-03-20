@@ -84,7 +84,6 @@ payload:
  - '+.a.hl.mi.com'
 #禁用后可能会导致小米浏览器无法下载APK，因为有垃圾推广安装
  - '+.idm.api.io.mi.com'
- - '+.api.jr.mi.com'
  - '+.ssl-cdn.static.browser.mi-img.com'
 # 本机号码一键登录
  - '+.config.cmpassport.com'
