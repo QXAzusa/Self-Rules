@@ -104,3 +104,6 @@ payload:
  - '+.open.e.189.cn'
  - '+.ye.dun.163yun.com'
  - '+.analytics.95516.com'
+# For Bilibili Global
+ - '+.upos-sz-mirrorcosov.bilivideo.com'
+ - '+.upos-sz-mirrorasiaov.bilivideo.com'

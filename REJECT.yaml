@@ -32,3 +32,5 @@ payload:
  - '+.dtrace.nvidia.com'
  - '+.events.gfe.nvidia.com'
  - '+.httpdns.bilivideo.com'
+ - '+.improving.duckduckgo.com'
+ - '+.hw-v2-web-player-tracker.biliapi.net'
