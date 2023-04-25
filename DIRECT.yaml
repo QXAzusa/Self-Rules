@@ -26,6 +26,7 @@ payload:
  - DOMAIN,production.cloudflare.docker.com
  - DOMAIN,downloads.dell.com
  - DOMAIN,ba.dn.nexoncdn.co.kr
+ - DOMAIN,download-cdn.jetbrains.com
  - PROCESS-NAME,aria2c.exe
  - PROCESS-NAME,BitComet_x64.exe
  - PROCESS-NAME,BitComet.exe
