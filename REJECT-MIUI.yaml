@@ -107,3 +107,10 @@ payload:
 # For Bilibili Global
  - '+.upos-sz-mirrorcosov.bilivideo.com'
  - '+.upos-sz-mirrorasiaov.bilivideo.com'
+# For MIUI Global
+ - '+.api.sec.intl.miui.com'
+ - '+.authbe.sec.intl.miui.com'
+ - '+.flash.sec.intl.miui.com'
+ - '+.api.sec.intl.miui.com'
+ - '+.api.setting.intl.miui.com'
+ - '+.data.sec.intl.miui.com'
