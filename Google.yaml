@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,goo.gl
   - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,googleapi.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,youtube-nocookie.com
