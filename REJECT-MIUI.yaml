@@ -114,3 +114,4 @@ payload:
  - '+.api.sec.intl.miui.com'
  - '+.api.setting.intl.miui.com'
  - '+.data.sec.intl.miui.com'
+ - '+.api.micloud.xiaomi.net'
