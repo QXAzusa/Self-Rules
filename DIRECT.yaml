@@ -30,6 +30,7 @@ payload:
  - DOMAIN,ba.dn.nexoncdn.co.kr
  - DOMAIN,download-cdn.jetbrains.com
  - DOMAIN-SUFFIX,find.api.micloud.xiaomi.net
+ - DOMAIN-SUFFIX,findapi.micloud.xiaomi.net
  - PROCESS-NAME,aria2c.exe
  - PROCESS-NAME,BitComet_x64.exe
  - PROCESS-NAME,BitComet.exe
