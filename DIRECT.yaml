@@ -31,6 +31,7 @@ payload:
  - DOMAIN,download-cdn.jetbrains.com
  - DOMAIN-SUFFIX,find.api.micloud.xiaomi.net
  - DOMAIN-SUFFIX,findapi.micloud.xiaomi.net
+ - DOMAIN,models.topazlabs.com
  - PROCESS-NAME,aria2c.exe
  - PROCESS-NAME,BitComet_x64.exe
  - PROCESS-NAME,BitComet.exe
