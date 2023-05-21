@@ -20,6 +20,7 @@ payload:
  - DOMAIN-SUFFIX,officecdn.microsoft.com
  - DOMAIN-SUFFIX,softwareupdate.vmware.com
  - DOMAIN-SUFFIX,qxazusa.xyz
+ - DOMAIN-SUFFIX,ksedt.com
  - DOMAIN,dl.google.com
  - DOMAIN,fonts.googleapis.com
  - DOMAIN,fonts.gstatic.com
