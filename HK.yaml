@@ -27,3 +27,5 @@ payload:
  - '+.javdb.com'
  - '+.jdbstatic.com'
  - '+.azureedge.net'
+ - '+.imgs.hcaptcha.com'
+ - '+.newassets.hcaptcha.com'
