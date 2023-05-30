@@ -54,9 +54,19 @@ payload:
 #??? 云控?
  - '+.qsb.browser.miui.srv'
  - '+.rom.pt.miui.srv'
+ - '+.cc.sys.miui.com'
+ - '+.cc.sys.intl.xiaomi.com'
  - '+.ccc.sys.miui.com'
+ - '+.ccc.sys.intl.xiaomi.com'
  - '+.jupiter.sys.miui.com'
+ - '+.jupiter.intl.sys.miui.com'
+ - '+.jupiter.india.sys.miui.com'
+ - '+.jupiter.rus.sys.miui.com'
  - '+.metok.sys.miui.com'
+ - '+.preview-jupiter.rus.sys.miui.com'
+ - '+.preview-jupiter.intl.sys.miui.com'
+ - '+.preview-jupiter.india.sys.miui.com'
+ - '+.preview-jupiter.sys.miui.com'
 # 其他系统应用的垃圾sdk
 # qq扫描 bugly 阅读 快应用等api
 # 可能会影响部分功能 
