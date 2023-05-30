@@ -28,7 +28,7 @@ payload:
  - '+.ixav-cse.avlyun.com'
  - '+.logupdate.avlyun.sec.miui.com'
 # 流量更新、病毒白名单
- - '+.api.sec.miui.com'
+# - '+.api.sec.miui.com'
 # 禁用后无法开启部分权限
 #.srv.sec.miui.com
 #权限云控 好像只针对部分机型？
