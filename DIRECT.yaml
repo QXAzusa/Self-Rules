@@ -50,3 +50,4 @@ payload:
  - DOMAIN,dl-a10b-0483.mypikpak.com
  - DOMAIN,dl-a10b-0484.mypikpak.com
 #pikpak域名结束 
+ - DOMAIN-SUFFIX,tinyservices.net
