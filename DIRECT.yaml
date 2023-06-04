@@ -51,3 +51,4 @@ payload:
  - DOMAIN,dl-a10b-0484.mypikpak.com
 #pikpak域名结束 
  - DOMAIN-SUFFIX,tinyservices.net
+ - DOMAIN,download3.vmware.com
