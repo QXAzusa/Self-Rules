@@ -52,3 +52,4 @@ payload:
 #pikpak域名结束 
  - DOMAIN-SUFFIX,tinyservices.net
  - DOMAIN,download3.vmware.com
+ - DOMAIN,pico.eset.com
