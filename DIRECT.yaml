@@ -54,3 +54,4 @@ payload:
  - DOMAIN,pico.eset.com
  - DOMAIN,oscdn.apple.com
  - DOMAIN,osrecovery.apple.com
+ - DOMAIN,osxapps.itunes.apple.com
