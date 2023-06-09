@@ -1,0 +1,9 @@
+payload:
+  # Apple
+  - DOMAIN-SUFFIX,apple.co
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,appstore.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,itunes.com
+  - DOMAIN-SUFFIX,me.com
