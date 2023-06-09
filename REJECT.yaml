@@ -39,3 +39,8 @@ payload:
  - '+.line1-log.biligame.net'
  - '+.mcdn.bilivideo.cn'
  - '+.update.aida64.com'
+ - '+.swdist.apple.com'
+ - '+.swscan.apple.com'
+ - '+.swcdn.apple.com'
+ - '+.xp.apple.com'
+ - '+.gdmf.apple.com'
