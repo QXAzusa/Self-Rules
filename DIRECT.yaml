@@ -55,3 +55,4 @@ payload:
  - DOMAIN,oscdn.apple.com
  - DOMAIN,osrecovery.apple.com
  - DOMAIN,osxapps.itunes.apple.com
+ - DOMAIN-SUFFIX,mzstatic.com
