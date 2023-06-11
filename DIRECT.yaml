@@ -56,3 +56,4 @@ payload:
  - DOMAIN,osrecovery.apple.com
  - DOMAIN,osxapps.itunes.apple.com
  - DOMAIN-SUFFIX,mzstatic.com
+ - DOMAIN-SUFFIX,cdn-apple.com
