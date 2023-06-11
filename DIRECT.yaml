@@ -57,3 +57,4 @@ payload:
  - DOMAIN,osxapps.itunes.apple.com
  - DOMAIN-SUFFIX,mzstatic.com
  - DOMAIN-SUFFIX,cdn-apple.com
+ - DOMAIN-SUFFIX,icloud-content.com
