@@ -44,3 +44,5 @@ payload:
  - '+.xp.apple.com'
  - '+.gdmf.apple.com'
  - '+.icloud.com.cn'
+ - 'stun.chat.bilibili.com'
+ - 'stun6.chat.bilibili.com'
