@@ -30,3 +30,4 @@ payload:
  - '+.imgs.hcaptcha.com'
  - '+.newassets.hcaptcha.com'
  - '+.r2.cloudflarestorage.com'
+ - 'ui.tampermonkey.net'
