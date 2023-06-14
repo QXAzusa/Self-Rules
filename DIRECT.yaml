@@ -28,6 +28,7 @@ payload:
  - DOMAIN,connectivitycheck.gstatic.com
  - DOMAIN,production.cloudflare.docker.com
  - DOMAIN,downloads.dell.com
+ - DOMAIN,dl.dell.com
  - DOMAIN,ba.dn.nexoncdn.co.kr
  - DOMAIN,download-cdn.jetbrains.com
  - DOMAIN-SUFFIX,find.api.micloud.xiaomi.net
