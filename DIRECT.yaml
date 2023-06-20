@@ -18,6 +18,7 @@ payload:
  - DOMAIN-SUFFIX,pytorch.org
  - DOMAIN-SUFFIX,download.nvidia.com
  - DOMAIN-SUFFIX,officecdn.microsoft.com
+ - DOMAIN-SUFFIX,cdn.office.net
  - DOMAIN-SUFFIX,softwareupdate.vmware.com
  - DOMAIN-SUFFIX,ksedt.com
  - DOMAIN,dl.google.com
