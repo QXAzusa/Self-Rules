@@ -27,7 +27,6 @@ payload:
  - DOMAIN,fonts.gstatic.cn
  - DOMAIN,fonts.googleapis.cn
  - DOMAIN,connectivitycheck.gstatic.com
- - DOMAIN,production.cloudflare.docker.com
  - DOMAIN,downloads.dell.com
  - DOMAIN,dl.dell.com
  - DOMAIN,update.code.visualstudio.com
