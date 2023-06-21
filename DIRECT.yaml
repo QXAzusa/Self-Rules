@@ -36,6 +36,7 @@ payload:
  - DOMAIN-SUFFIX,find.api.micloud.xiaomi.net
  - DOMAIN-SUFFIX,findapi.micloud.xiaomi.net
  - DOMAIN,download.visualstudio.microsoft.com
+ - DOMAIN,archive.mozilla.org
  - PROCESS-NAME,aria2c.exe
  - PROCESS-NAME,BitComet_x64.exe
  - PROCESS-NAME,BitComet.exe
