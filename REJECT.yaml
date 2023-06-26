@@ -46,3 +46,5 @@ payload:
  - '+.icloud.com.cn'
  - 'stun.chat.bilibili.com'
  - 'stun6.chat.bilibili.com'
+ - 'settings-win.data.microsoft.com'
+ 
