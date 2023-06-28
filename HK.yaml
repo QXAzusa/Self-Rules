@@ -33,3 +33,5 @@ payload:
  - 'ui.tampermonkey.net'
  - 'cdn.graph.office.net'
  - '+.cloudflare.com'
+ - 'store-images.s-microsoft.com'
+ - 'images-eds-ssl.xboxlive.com'
