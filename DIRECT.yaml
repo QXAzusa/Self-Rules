@@ -4,43 +4,42 @@ payload:
  - DOMAIN,mirrorbits.lineageos.org
  - DOMAIN,downloadmirror.intel.com
  - DOMAIN-SUFFIX,local.qxazusa.xyz
- - DOMAIN-SUFFIX,chat.bilibili.com
  - DOMAIN-SUFFIX,mdt.qq.com
  - DOMAIN,upos-hz-mirrorakam.akamaized.net
  - DOMAIN-KEYWORD,ak-spotify-com.akamaized.net
  - DOMAIN-SUFFIX,steampipe.akamaized.net
- - DOMAIN-SUFFIX,delivery.mp.microsoft.com
- - DOMAIN,storeedgefd.dsx.mp.microsoft.com
- - DOMAIN-SUFFIX,download.prss.microsoft.com
- - DOMAIN-SUFFIX,msftconnecttest.com
- - DOMAIN-SUFFIX,suo.tw
- - DOMAIN-SUFFIX,windowsupdate.com
- - DOMAIN-SUFFIX,matsuri.icu
  - DOMAIN-SUFFIX,pytorch.org
  - DOMAIN-SUFFIX,download.nvidia.com
- - DOMAIN-SUFFIX,officecdn.microsoft.com
- - DOMAIN-SUFFIX,cdn.office.net
  - DOMAIN-SUFFIX,softwareupdate.vmware.com
  - DOMAIN-SUFFIX,ksedt.com
+ - DOMAIN,downloads.dell.com
+ - DOMAIN,dl.dell.com
+ - DOMAIN,ba.dn.nexoncdn.co.kr
+ - DOMAIN,download-cdn.jetbrains.com
+ - DOMAIN-SUFFIX,find.api.micloud.xiaomi.net
+ - DOMAIN-SUFFIX,findapi.micloud.xiaomi.net
+ - DOMAIN,archive.mozilla.org
+ - PROCESS-NAME,aria2c.exe
+ - PROCESS-NAME,BitComet_x64.exe
+ - PROCESS-NAME,BitComet.exe
+ - DOMAIN-SUFFIX,tinyservices.net
+ - DOMAIN,download3.vmware.com
+ - DOMAIN,pico.eset.com
+# Google
  - DOMAIN,dl.google.com
  - DOMAIN,fonts.googleapis.com
  - DOMAIN,fonts.gstatic.com
  - DOMAIN,fonts.gstatic.cn
  - DOMAIN,fonts.googleapis.cn
  - DOMAIN,connectivitycheck.gstatic.com
- - DOMAIN,downloads.dell.com
- - DOMAIN,dl.dell.com
- - DOMAIN,update.code.visualstudio.com
- - DOMAIN,ba.dn.nexoncdn.co.kr
- - DOMAIN,download-cdn.jetbrains.com
- - DOMAIN-SUFFIX,find.api.micloud.xiaomi.net
- - DOMAIN-SUFFIX,findapi.micloud.xiaomi.net
- - DOMAIN,download.visualstudio.microsoft.com
- - DOMAIN,archive.mozilla.org
- - PROCESS-NAME,aria2c.exe
- - PROCESS-NAME,BitComet_x64.exe
- - PROCESS-NAME,BitComet.exe
-#pikpak域名开始  
+# Apple
+ - DOMAIN,oscdn.apple.com
+ - DOMAIN,osrecovery.apple.com
+ - DOMAIN,osxapps.itunes.apple.com
+ - DOMAIN-SUFFIX,mzstatic.com
+ - DOMAIN-SUFFIX,cdn-apple.com
+ - DOMAIN-SUFFIX,icloud-content.com
+# pikpak
  - DOMAIN,vod0393-aliyun18-vip-lixian.mypikpak.com
  - DOMAIN,vod0394-aliyun18-vip-lixian.mypikpak.com
  - DOMAIN,vod0395-aliyun18-vip-lixian.mypikpak.com
@@ -52,13 +51,14 @@ payload:
  - DOMAIN,dl-a10b-0482.mypikpak.com
  - DOMAIN,dl-a10b-0483.mypikpak.com
  - DOMAIN,dl-a10b-0484.mypikpak.com
-#pikpak域名结束 
- - DOMAIN-SUFFIX,tinyservices.net
- - DOMAIN,download3.vmware.com
- - DOMAIN,pico.eset.com
- - DOMAIN,oscdn.apple.com
- - DOMAIN,osrecovery.apple.com
- - DOMAIN,osxapps.itunes.apple.com
- - DOMAIN-SUFFIX,mzstatic.com
- - DOMAIN-SUFFIX,cdn-apple.com
- - DOMAIN-SUFFIX,icloud-content.com
+# Microsoft 
+ - DOMAIN,download.visualstudio.microsoft.com
+ - DOMAIN-SUFFIX,officecdn.microsoft.com
+ - DOMAIN-SUFFIX,cdn.office.net
+ - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+ - DOMAIN,storeedgefd.dsx.mp.microsoft.com
+ - DOMAIN-SUFFIX,download.prss.microsoft.com
+ - DOMAIN-SUFFIX,msftconnecttest.com
+ - DOMAIN-SUFFIX,windowsupdate.com
+ - DOMAIN,update.code.visualstudio.com
+ - DOMAIN,emdl.ws.microsoft.com
