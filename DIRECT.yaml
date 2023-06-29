@@ -25,6 +25,7 @@ payload:
  - DOMAIN-SUFFIX,tinyservices.net
  - DOMAIN,download3.vmware.com
  - DOMAIN,pico.eset.com
+ - DOMAIN,veai-models.topazlabs.com
 # Google
  - DOMAIN,dl.google.com
  - DOMAIN,fonts.googleapis.com
