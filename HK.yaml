@@ -35,3 +35,5 @@ payload:
  - '+.cloudflare.com'
  - 'store-images.s-microsoft.com'
  - 'images-eds-ssl.xboxlive.com'
+ - '+.coursera.org'
+ - 'd3njjcbhbojbot.cloudfront.net'
