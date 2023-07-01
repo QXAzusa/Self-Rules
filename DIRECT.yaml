@@ -26,6 +26,7 @@ payload:
  - DOMAIN,download3.vmware.com
  - DOMAIN,pico.eset.com
  - DOMAIN,veai-models.topazlabs.com
+ - DOMAIN,autopatchos.starrails.com
 # Google
  - DOMAIN,dl.google.com
  - DOMAIN,fonts.googleapis.com
