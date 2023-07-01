@@ -63,3 +63,6 @@ payload:
  - DOMAIN-SUFFIX,windowsupdate.com
  - DOMAIN,update.code.visualstudio.com
  - DOMAIN,emdl.ws.microsoft.com
+ - DOMAIN-SUFFIX,onmicrosoft.cn
+ - DOMAIN-SUFFIX,sharepoint.cn
+ - DOMAIN-SUFFIX,azure.cn
