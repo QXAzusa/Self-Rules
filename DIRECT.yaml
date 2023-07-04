@@ -67,3 +67,6 @@ payload:
  - DOMAIN-SUFFIX,onmicrosoft.cn
  - DOMAIN-SUFFIX,sharepoint.cn
  - DOMAIN-SUFFIX,azure.cn
+ # veeam
+ - DOMAIN,download5.veeam.com
+ - DOMAIN,download2.veeam.com
