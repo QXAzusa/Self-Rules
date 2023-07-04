@@ -47,4 +47,6 @@ payload:
  - 'stun.chat.bilibili.com'
  - 'stun6.chat.bilibili.com'
  - 'settings-win.data.microsoft.com'
- 
+ - 'wxa.wxs.qq.com'
+ - 'wxsnsdy.wxs.qq.com'
+ - 'wxsnsdythumb.wxs.qq.com'
