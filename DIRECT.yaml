@@ -27,6 +27,8 @@ payload:
  - DOMAIN,pico.eset.com
  - DOMAIN,veai-models.topazlabs.com
  - DOMAIN,autopatchos.starrails.com
+ - DOMAIN-SUFFIX,downloadcenter.samsung.com
+ - DOMAIN-SUFFIX,downloadcenter2.samsung.com
 # Google
  - DOMAIN,dl.google.com
  - DOMAIN,fonts.googleapis.com
