@@ -30,6 +30,7 @@ payload:
  - DOMAIN-SUFFIX,downloadcenter.samsung.com
  - DOMAIN-SUFFIX,downloadcenter2.samsung.com
  - DOMAIN,p6wrew7f.azureedge.net
+ - DOMAIN-SUFFIX,anydesk.com
 # Google
  - DOMAIN,dl.google.com
  - DOMAIN,fonts.googleapis.com
