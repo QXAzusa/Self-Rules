@@ -47,6 +47,7 @@ payload:
  - 'stun.chat.bilibili.com'
  - 'stun6.chat.bilibili.com'
  - 'settings-win.data.microsoft.com'
+ - 'tpstelemetry.tencent.com'
  - '1010pic.com'
  - 'ad-scope.com.cn'
  - 'ad-scope.com'
