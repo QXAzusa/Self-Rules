@@ -41,6 +41,7 @@ payload:
  - DOMAIN,steamusercontent-a.akamaihd.net
  - DOMAIN,steamuserimages-a.akamaihd.net
 # Google
+ - DOMAIN-SUFFIX,gstatic.com
  - DOMAIN,dl.google.com
  - DOMAIN,fonts.googleapis.com
  - DOMAIN,fonts.gstatic.com
