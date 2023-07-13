@@ -7,7 +7,6 @@ payload:
  - DOMAIN-SUFFIX,mdt.qq.com
  - DOMAIN,upos-hz-mirrorakam.akamaized.net
  - DOMAIN-KEYWORD,ak-spotify-com.akamaized.net
- - DOMAIN-SUFFIX,steampipe.akamaized.net
  - DOMAIN-SUFFIX,pytorch.org
  - DOMAIN-SUFFIX,download.nvidia.com
  - DOMAIN-SUFFIX,softwareupdate.vmware.com
@@ -31,6 +30,16 @@ payload:
  - DOMAIN-SUFFIX,downloadcenter2.samsung.com
  - DOMAIN,p6wrew7f.azureedge.net
  - DOMAIN-SUFFIX,anydesk.com
+# Steam
+ - DOMAIN-SUFFIX,steampipe.akamaized.net
+ - DOMAIN-SUFFIX,akamai.steamstatic.com
+ - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+ - DOMAIN,steambroadcast.akamaized.net
+ - DOMAIN,steamcommunity-a.akamaihd.net
+ - DOMAIN,steampipe.akamaized.net
+ - DOMAIN,steamstore-a.akamaihd.net
+ - DOMAIN,steamusercontent-a.akamaihd.net
+ - DOMAIN,steamuserimages-a.akamaihd.net
 # Google
  - DOMAIN,dl.google.com
  - DOMAIN,fonts.googleapis.com
