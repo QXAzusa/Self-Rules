@@ -55,6 +55,7 @@ payload:
  - DOMAIN-SUFFIX,mzstatic.com
  - DOMAIN-SUFFIX,cdn-apple.com
  - DOMAIN-SUFFIX,icloud-content.com
+ - DOMAIN-KEYWORD,uploadimagews.icloud.com
 # pikpak
  - DOMAIN,vod0393-aliyun18-vip-lixian.mypikpak.com
  - DOMAIN,vod0394-aliyun18-vip-lixian.mypikpak.com
